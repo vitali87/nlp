@@ -1,1 +1,2 @@
-# Hands-on NLP content at the Department of Mathematics and Mechanics of YSU
+# Hands-on NLP content
+Department of Mathematics and Mechanics at YSU
